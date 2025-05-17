@@ -1,6 +1,6 @@
 @font-face {
     font-family: lalezar;
-    src: url(../../../statics/fonts/Lalezar-Regular.otf),
+    src: url(https://raw.githubusercontent.com/saeidi1023/talayiha-Authentication-website/main/statics/fonts/Lalezar-Regular.otf),
     url(https://raw.githubusercontent.com/saeidi1023/talayiha-Authentication-website/main/statics/fonts/Lalezar-Regular.ttf);
 }
 body {
